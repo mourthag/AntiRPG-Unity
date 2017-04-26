@@ -38,7 +38,7 @@ public class SimpleSpellCast : GOAPAction {
         {
             _startTime = Time.time;
 
-            var spawnPosition = transform.position + Vector3.forward;
+            var spawnPosition = transform.position + Vector3.up * 2;
 
             var projectile = Instantiate(ProjectilePrefab, spawnPosition, Quaternion.identity, transform);
             projectile.transform.LookAt(Target.transform);
