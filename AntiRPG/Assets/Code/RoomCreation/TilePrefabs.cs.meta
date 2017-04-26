@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca6506c527e2ade42a0b563dc4131e2a
+timeCreated: 1447194095
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Floor_Tile: {fileID: 144404, guid: 78c4284be4e5646499636efdbfde41d2, type: 2}
+  - Wall_Tile: {fileID: 144404, guid: 809bf4d0f96e61545bb12d9a2423f426, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
